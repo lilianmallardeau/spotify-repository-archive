@@ -1,5 +1,26 @@
 Package: spotify-client
 Architecture: amd64
+Version: 1:1.2.8.923.g4f94bf0d
+Priority: extra
+Section: sound
+Maintainer: Spotify <tux@spotify.com>
+Installed-Size: 263654
+Depends: libasound2, libatk-bridge2.0-0, libatomic1, libcurl3-gnutls, libgbm1, libgconf-2-4, libglib2.0-0, libgtk-3-0, libnss3, libssl3 | libssl1.1 | libssl1.0.2 | libssl1.0.1 | libssl1.0.0, libxshmfence1, libxss1, libxtst6, xdg-utils
+Recommends: libavcodec58 | libavcodec-extra58 | libavcodec57 | libavcodec-extra57 | libavcodec-ffmpeg56 | libavcodec-ffmpeg-extra56 | libavcodec54 | libavcodec-extra-54, libavformat58 | libavformat57 | libavformat-ffmpeg56 | libavformat54
+Suggests: libnotify4
+Filename: pool/non-free/s/spotify-client/spotify-client_1.2.8.923.g4f94bf0d_amd64.deb
+SHA512: d4bc076d87018c851f851cc8b65e05b1611701994a97963bd63aa816518b1f5fa4d89956fea8ef234a41f1c4d6f8a3aa2bfc4fbd3b39f58f0bed5aec79c60edc
+Homepage: https://www.spotify.com
+Size: 119841576
+SHA256: 0dcb7bb498679e5f9428f873c64cd5af61583374cc009c56f470d9ffb8603a0d
+SHA1: f0a0bdf8d6ab40945235c31968f52065dbf469ba
+MD5sum: 10af2fb8989f0b8b7c3b3c13d4d86efd
+Description: Spotify streaming music client
+License: https://www.spotify.com/legal/end-user-agreement
+Vendor: Spotify AB
+
+Package: spotify-client
+Architecture: amd64
 Version: 1:1.1.84.716.gc5f8b819-2
 Priority: extra
 Section: sound
